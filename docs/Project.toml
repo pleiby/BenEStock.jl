@@ -1,0 +1,3 @@
+[deps]
+BenEStock = "92807377-c9bd-41ba-b36e-d8468569083a"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
